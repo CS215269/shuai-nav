@@ -20,7 +20,7 @@ window.SITES = {
   "meta": {
     "title": "网址导航",
     "subtitle": "个人收藏夹",
-    "updated": "2026-11-19"
+    "updated": "2026-11-27"
   },
   "categories": [
     {
@@ -1249,6 +1249,14 @@ window.SITES = {
       "desc": "各类网址导航与资源聚合",
       "items": [
         {
+          "t": "awesome-ai-api - AI API 中转站排行榜",
+          "u": "https://claws-zh.github.io/awesome-ai-api/zh/",
+          "g": [
+            "导航",
+            "AI"
+          ]
+        },
+        {
           "t": "Latent Box - Stable Diffusion 生态论文",
           "u": "https://latentbox.com/zh/sd-ecology",
           "g": [
@@ -1271,6 +1279,14 @@ window.SITES = {
           ]
         },
         {
+          "t": "Veridrop - API 中转站真假检测",
+          "u": "https://veridrop.app/",
+          "g": [
+            "导航",
+            "AI"
+          ]
+        },
+        {
           "t": "图欧学习资源导航",
           "u": "https://tuostudy.upnb.top/",
           "g": [
@@ -1283,6 +1299,14 @@ window.SITES = {
           "u": "https://dama.lu/",
           "g": [
             "导航"
+          ]
+        },
+        {
+          "t": "禾维 AI - AI 中转站推荐与测评",
+          "u": "https://www.hvoyai.com/",
+          "g": [
+            "导航",
+            "AI"
           ]
         },
         {
